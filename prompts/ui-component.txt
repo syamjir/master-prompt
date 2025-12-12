@@ -1,0 +1,12 @@
+I am a UI/UX expert.
+Create a Tailwind + React component for the following purpose:
+
+<PURPOSE>
+
+Requirements:
+- responsive
+- clean UI
+- uses icons from lucide-react
+- no inline CSS
+
+Output: full JSX component.
