@@ -1,0 +1,42 @@
+>>> simple guide to writing perfect prompts
+
+🔥🔥🔥🔥 1. Use the “Role + Task + Details + Output Format” formula  🔥🔥🔥🔥
+
+✅ Example (Good Prompt)
+
+Role:
+“You are a senior React developer.”
+
+Task:
+“Fix this component’s state update issue.”
+
+Details:
+“Form values are not updating because setState is asynchronous.”
+
+Output format:
+“Give me corrected code + explanation.”
+
+🔥🔥🔥🔥 2. Always include context 🔥🔥🔥🔥
+
+✅ Example:
+Bad:
+
+“Fix this code.”
+
+Good:
+
+“Fix this code. The issue is that the password strength value is undefined in the dashboard:
+
+🔥🔥🔥🔥 3. Tell the AI what you want EXACTLY 🔥🔥🔥🔥
+
+✅ Example: If you want code:
+
+“Give me only the code — no explanation.”
+
+If you want explanation:
+
+“Explain step-by-step how this works.”
+
+If you want UI:
+
+“Generate a clean Tailwind UI component with responsive layout.”
