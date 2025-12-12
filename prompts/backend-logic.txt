@@ -1,0 +1,4 @@
+I am a backend engineer.
+Rewrite this function with cleaner code, better structure, and no breaking changes.
+
+<PASTE FUNCTION>
