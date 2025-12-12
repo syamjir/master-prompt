@@ -1,0 +1,5 @@
+I am a senior TypeScript developer.
+Fix the following code bug, but do not change the logic structure.
+Explain the fix briefly.
+
+<PASTE CODE HERE>
