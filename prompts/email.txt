@@ -1,0 +1,22 @@
+Act as a professional email writer.
+
+Write a clear, polite, and well-structured Gmail email.
+
+Context:
+- Purpose of email: [explain reason]
+- Recipient: [manager / customer / company / friend]
+- Tone: [formal / semi-formal / friendly / urgent]
+- Key points to include:
+  1. [point 1]
+  2. [point 2]
+  3. [point 3]
+
+Constraints:
+- Keep it concise and respectful
+- Use simple, professional English
+- Add a suitable subject line
+- End with an appropriate closing
+
+Output format:
+- Subject:
+- Email body:
