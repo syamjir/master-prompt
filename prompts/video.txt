@@ -1,0 +1,29 @@
+Create a cinematic video of a hacker typing code rapidly.
+
+Scene:
+- Location: dark room filled with glowing monitors
+- Time: night
+- Atmosphere: rain hitting the window, cyberpunk neon reflections
+
+Style:
+- Visual style: ultra-realistic cinematic
+- Lighting: dramatic blue and purple glow from screens
+- Camera: slow close-up on hands, then pan to face
+
+Motion:
+- Fingers typing fast
+- Camera slowly zooms in
+
+Details:
+- Hoodie, headphones
+- Lines of code reflecting on the face
+- Mood: intense, focused
+
+Technical:
+- Duration: 10 seconds
+- Aspect ratio: 16:9
+- Quality: high detail, smooth motion
+
+Constraints:
+- No text overlays
+- No logos
